@@ -1,1 +1,3 @@
-# Django_the_Rango
+# 3 months to show myself approved!
+
+swim in the Django
