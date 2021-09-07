@@ -1,3 +1,3 @@
-# 3 months to show myself approved!
+# To Do app
 
-swim in the Django
+Still need a lot of styling but you can study the mechanics.
