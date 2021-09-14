@@ -1,0 +1,61 @@
+body {
+    margin: 0px;
+}
+
+.name_heading {
+    margin: 0 auto;
+    text-align: center;
+    color: black;
+    text-shadow: 0px 0px 2px white;
+    padding: 100px;
+    font-size: 300%;
+    background-image: url("/static/imgs/dylan_1.gif");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+}
+
+
+.container {
+    margin: 0 auto;
+    width: 90%;
+    background-color: cornflowerblue;
+}
+
+.description h4 {
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.description p {
+    color: whitesmoke;
+    padding: 0 30px;
+}
+
+.description {
+    padding-bottom: 20px;
+}
+
+.hobbies {
+    padding-bottom: 20px;
+    background-color: lightgrey;
+    height: 600px;
+}
+
+.hobby1 {
+    background-color: lightsalmon;
+    width: 50%;
+}
+.hobby2 {
+    background-color: lightsalmon;
+    width: 50%;
+}
+.hobby3 {
+    background-color: lightsalmon;
+    width: 50%;
+}
+.hobby4 {
+    background-color: lightsalmon;
+    width: 50%;
+}

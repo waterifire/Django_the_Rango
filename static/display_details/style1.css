@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    box-sizing: border-box;
+    font-size: 100%;
+}
+
+header {
+    width: 100%;
+    padding: 30px;
+    font-size: 150%;
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    background-color: dodgerblue;
+}
+
+
+footer {
+    width: 100%;
+    padding: 30px;
+    font-size: 150%;
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    background-color: dodgerblue;
+}
